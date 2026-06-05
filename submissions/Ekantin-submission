@@ -1,0 +1,77 @@
+# Hackathon Submission: <PROJECT_NAME>
+
+## GitHub handle
+Ekantin123
+
+
+
+## Project Title
+FOUND BUDDY  
+
+<!--
+CodeCapture
+-->
+
+## Project Description    
+The app provides a centralized platform where users can upload details of lost or found items , 
+ browse listings, and communicate securely with item owners or finders.
+
+
+
+## Inspiration behind the Project  
+Traditional methods of reporting lost items are often inefficient,relying on notice boards
+This app streamlines the process by providing a digital platform for managing lost-and-found reports.
+
+<!--
+The reason I chose this idea/project was...
+-->
+
+## Tech Stack    
+
+HTML5 – Structure of the pages (forms, navigation bar, buttons).
+CSS3 – Styling, colors, layout, responsive design.
+JavaScript – Form validation and user interactions.
+
+Development Tools:
+git& github
+VS Code
+
+
+<!--
+The technologies I used...
+-->
+
+### Appwrite products
+_Select all the Appwrite products you have used in your project_
+
+<!--
+Update the checkbox to [x] for the products used.
+
+e.g.:
+
+- [x] Auth 
+-->
+
+- [ ] Auth
+- [x] Databases
+- [x] Storage
+- [ ] Functions
+- [x ] Messaging
+- [x] Realtime
+- [x] Sites
+
+## Project Repo  
+https://github.com/Ekantin123/hf2025-hackathon-submissions
+
+
+
+## Deployed Site URL
+
+file:///C:/Users/Ekantin%20Agarwal/OneDrive/Desktop/found%20buddy.html
+
+
+
+## Demo Video/Photos  
+
+https://www.youtube.com/watch?v=hP0NQ8p5gyI
+https://1drv.ms/v/c/904a61733a28ecb7/IQAdFwScgT1DSK6ugDhwZYwrASGGgdXOCQ_sVJX7nqBy9FI?e=zI9KBN    // project video
